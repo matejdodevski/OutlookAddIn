@@ -1,0 +1,63 @@
+.headerStart {
+    width: 100%;
+    height: 50px;
+    font-weight: 500;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+  }
+  .parentDiv {
+    width: 100%;
+    font-size: 1.05em;
+  
+    margin-bottom: 20px;
+  }
+  .buttonChoice {
+    width: 100%;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border: 1px solid rgb(179, 179, 179);
+    cursor: pointer;
+    background-color: rgb(250, 250, 250);
+    margin-bottom: 5px;
+  }
+  .buttonChoice:hover {
+    background-color: rgb(241, 241, 241);
+  }
+  .title{
+    width: 100%;
+    height:30px;
+    font-weight: 400;
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    color: gray;
+  }
+  .fileName {
+    margin-left: 15px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  .icon {
+    margin-left: 15px;
+  }
+  .language{
+      height: 30px;
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      margin-bottom: 10px;
+      width: 100%;
+      border: 1px solid gray;
+      cursor: pointer;
+  }
+  .language:hover{
+    background-color: rgb(248, 248, 248);
+  }
+  .language img{
+    height: 100%;
+    margin: 1px 5px 1px 5px;
+}

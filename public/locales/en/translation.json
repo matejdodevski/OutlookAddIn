@@ -1,0 +1,46 @@
+{
+    "chooseOption" : {
+      "title": "What would you like to do?",
+      "signButton" : "Sign a document",
+      "sendButton" : "Send a document to sign",
+      "sendMultipleButton" : "Send a document to multiple people"
+    },
+    "chooseSign" : {
+      "title" : "Choose a document to sign",
+      "subTitle" : "Attached documents:",
+      "note" : "*Only files with .pdf extension can be signed."
+    },
+    "chooseSend" : {
+      "title" : "Choose a document to send",
+      "subTitle" : "Attached documents:",
+      "note" : "*Only files with .pdf extension can be signed.",
+      "titleNoFiles" : "There are no .pdf attachments available.",
+      "subtitleNoFiles" : "Open an email with a .pdf attachment to sign or send."
+    },
+    "chooseSendMultiple" : {
+
+    },
+    "enterData" : {
+      "title" : "Enter the data of the e-mail:",
+      "addressTextBox" : "Recipient's address",
+      "subjectTextBox" : "Subject",
+      "bodyTextBox" : "Body",
+      "sendButton" : "Send",
+      "notValidEmail" : "E-mail address is not valid!"
+    },
+    "sendData" : {
+      "titleSuccessful" : "Successfully sent!",
+      "titleUnsuccessful" : "Unsuccessfully sent!",
+      "signButton" : "Sign a document",
+      "sendButton" : "Send another document to sign"
+    },
+    "chooseLanguage" : {
+      "title" : "Choose a language"
+    },
+    "navBar" : {
+      "changeLanguage" : "Change language",
+      "signButton" : "Go to sign a document",
+      "sendButton" : "Go to send a document",
+      "sendButtonMultiple" : "Go to send a document to multiple recipients"
+    }
+}

@@ -1,0 +1,22 @@
+.headerStart {
+  width: 100%;
+  height: 50px;
+  font-weight: 500;
+  font-size: 1.3em;
+
+  display: flex;
+  align-items: center;
+}
+
+.buttonChoice {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.icon{
+  right: 15px;
+  position: absolute;
+  cursor: pointer;
+}

@@ -1,0 +1,46 @@
+{
+  "chooseOption" : {
+    "title": "Što biste željeli raditi?",
+    "signButton" : "Potpišite dokument",
+    "sendButton" : "Pošaljite dokument na potpis",
+    "sendMultipleButton" : "Pošaljite dokument na potpis na više ljudi"
+  },
+  "chooseSign" : {
+    "title" : "Odaberite dokument za potpisivanje",
+    "subTitle" : "Priloženi dokumenti:",
+    "note" : "*Mogu se potpisivati samo datoteke s nastavkom .pdf.."
+  },
+  "chooseSend" : {
+    "title" : "Odaberite dokument za slanje",
+    "subTitle" : "Priloženi dokumenti:",
+    "note" : "*Mogu se potpisivati samo datoteke s nastavkom .pdf.",
+    "titleNoFiles" : "Nema dostupnih .pdf priloga.",
+    "subtitleNoFiles" : "Otvorite e-poštu s .pdf privitkom za potpisivanje ili slanje."
+  },
+  "chooseSendMultiple" : {
+
+  },
+  "enterData" : {
+    "title" : "Unesite podatke e-pošte:",
+    "addressTextBox" : "Adresu primatelja",
+    "subjectTextBox" : "Predmet",
+    "bodyTextBox" : "Sadržaj",
+    "sendButton" : "Pošalji",
+    "notValidEmail" : "E-mail adresa nije važeća!"
+  },
+  "sendData" : {
+    "titleSuccessful" : "Uspješno poslano!",
+    "titleUnsuccessful" : "Neuspješno poslano!",
+    "signButton" : "  Potpišite dokument",
+    "sendButton" : " Pošaljite ponovo drugi dokument"
+  },
+  "chooseLanguage" : {
+    "title" : "Izaberite jezik"
+  },
+  "navBar" : {
+    "changeLanguage" : "Promijeni jezik",
+    "signButton" : "Idite na potpisivanje dokumenta",
+    "sendButton" : "Idite na slanje dokumenta",
+    "sendButtonMultiple" : "Idite na slanje dokumenta većem broju primatelja"
+  }
+}

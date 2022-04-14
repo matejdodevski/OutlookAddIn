@@ -1,0 +1,42 @@
+.headerStart {
+    width: 100%;
+    height: 50px;
+    font-weight: 500;
+    font-size: 1.3em;
+    display: flex;
+    align-items: center;
+  }
+  .parentDiv {
+    width: 100%;
+    font-size: 1.05em;
+  
+    margin-bottom: 20px;
+  }
+  .buttonChoice {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .title{
+    width: 100%;
+    height:20px;
+    font-weight: 400;
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    color: gray;
+  }
+  .fileName {
+    margin-left: 15px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  .icon {
+    margin-left: 15px;
+  }
+  .textBoxesParent{
+      width: 50%;
+  }
